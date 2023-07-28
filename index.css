@@ -1,0 +1,22 @@
+* {
+    background-color: beige;
+}
+
+#main-cont {
+    background-color: rgb(173, 205, 233);
+    width: 70%;
+    height: 25rem;
+    padding-top: 25px;
+}
+
+#cont1 {
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+#cont2 {
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+}
